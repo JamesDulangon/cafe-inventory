@@ -1,6 +1,7 @@
 # Cafe Inventory
 
-A coffee shop inventory program based in Java using Swing UI. Performing CRUD (Create, Read, Update, Delete)  in text log file.
+- A coffee shop inventory program based in Java using Swing UI.
+- Add, delete and estimate which items and its quantity used in making a coffee type.
 
 ## App preview
 - Admin Log-in
