@@ -18,4 +18,4 @@ A coffee shop inventory program based in Java using Swing UI. Performing CRUD (C
 
 ## Video app demonstration
 
-[![cafe-inventory-app-demo-yt](https://img.youtube.com/vi/vbck9-WXiWU/0.jpg)](https://www.youtube.com/watch?v=vbck9-WXiWU) 
+[![cafe-inventory-app-demo-yt](https://img.youtube.com/vi/2lpKsGH513g/0.jpg)](https://www.youtube.com/watch?v=2lpKsGH513g) 
